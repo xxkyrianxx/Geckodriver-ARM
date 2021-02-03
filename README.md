@@ -22,12 +22,14 @@ Instructions:
   -Add the path to your python script like this : 
   
   
-from selenium import webdriver
+      from selenium import webdriver
 
-from selenium.webdriver.firefox.options import Options
+      from selenium.webdriver.firefox.options import Options
 
-from selenium.webdriver import Firefox
+      from selenium.webdriver import Firefox
 
-options = Options()
+      options = Options()
 
-driver = webdriver.Firefox(options=options, executable_path="/usr/bin/geckodriver")
+      driver = webdriver.Firefox(options=options, executable_path="/usr/bin/geckodriver")
+      
+  -Enjoy it!
