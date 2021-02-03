@@ -9,6 +9,7 @@ Firefox : Firefox ESR - Version : 78.7.0 - 64 bits
 
 
 Instructions:
+
   -Download it
   
   -Extract it
